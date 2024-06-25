@@ -9,9 +9,9 @@
 
 👨‍💻 Martina Sierra - Software QA Engineer
 
- 🌱 I’m currently learning Playwright with Typescript
+- 🌱 I’m currently learning Playwright with Typescript
 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/martina-sierra/">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/martina-sierra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
