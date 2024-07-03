@@ -4,10 +4,10 @@
 <h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Martina</h1>
 <h3 align="center">A passionate QA Engineer 👨‍💻 </h3>
 
-<h4 align="center">From learning Pascal, C and SmallTalk at university, writing code on paper in class and in exams, to today being an enthusiastic self-taught learner. Looking for new projects where I can continue growing, learning and automate tests. </h3>
+<h4 align="center">From learning Pascal, C and SmallTalk at university, writing code on paper in class and in exams, to today being an enthusiastic self-taught learner. Looking for new projects where I can continue growing, learning and automating tests. </h3>
 
 
-- 🌱 I’m currently learning ** Playwright with Typescript**
+- 🌱 I’m currently learning **Playwright with Typescript**
 
 - 👯 I’m looking to collaborate on **projects involving automation testing with Playwright**
 
