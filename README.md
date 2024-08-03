@@ -6,7 +6,7 @@
 
 <h4 align="center">From learning Pascal, C and SmallTalk at university, writing code on paper in class and in exams, to today being an enthusiastic self-taught learner. Looking for new projects where I can continue growing, learning and automating tests. </h3>
 
-- 🤖 I’m currently learning **WebdriverIO with Javascript**
+- 🤖 I have experiencie working with **WebdriverIO with Javascript**
 
 - 🌱 I’m currently learning **Playwright with Typescript**
 
